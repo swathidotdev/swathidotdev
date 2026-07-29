@@ -30,14 +30,6 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 
 ---
 
-## 📊 Data Analytics
-
-| Project | Technologies | Description |
-|----------|-------------|-------------|
-| 📈 **[CloudSync Revenue Recovery Analytics](https://github.com/swathidotdev/cloudsync-revenue-recovery-analytics)** | Excel • Power BI • SQL • Python | Performed revenue recovery analysis by identifying revenue leakage, creating KPI dashboards, analyzing trends, and delivering business insights through interactive visualizations. |
-
----
-
 ## 🗄 SQL Projects
 
 | Project | Technologies | Description |
@@ -45,6 +37,13 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 | 📚 **[8 Week SQL Challenge](https://github.com/swathidotdev/8-Week-SQL-Challenge-)** | SQL | Solved all eight case studies covering joins, CTEs, window functions, ranking, aggregations, and business problem-solving using advanced SQL techniques. |
 | 🩸 **[Blood & Organ Management System](https://github.com/swathidotdev/Blood-Organ-Management-System)** | MySQL | Designed and implemented a relational database system for blood and organ donation management, including normalization, ER modeling, triggers, stored procedures, and complex SQL queries. |
 
+---
+
+## 📊 Data Analytics
+
+| Project | Technologies | Description |
+|----------|-------------|-------------|
+| 📈 **[CloudSync Revenue Recovery Analytics](https://github.com/swathidotdev/cloudsync-revenue-recovery-analytics)** | Excel • Power BI • SQL • Python | Performed revenue recovery analysis by identifying revenue leakage, creating KPI dashboards, analyzing trends, and delivering business insights through interactive visualizations. |
 ---
 
 ## 💻 Course Projects
