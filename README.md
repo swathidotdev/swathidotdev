@@ -49,50 +49,18 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 
 | Project | Technologies | Description |
 |----------|-------------|-------------|
-| 🎨 **[Mini RAFT Drawing Board](https://github.com/swathidotdev/Mini-RAFT-drawing-board)** | C++ • Computer Graphics | Developed a mini drawing application implementing fundamental computer graphics algorithms with an interactive user interface. |
+| 🎨 **[Mini RAFT Drawing Board](https://github.com/swathidotdev/Mini-RAFT-drawing-board)** | Python • RAFT • Cloud Computing | Developed a mini drawing application implementing fundamental RAFT consensus algorithms with an interactive user interface. |
+| **[Expense Approval Chatbot](https://github.com/swathidotdev/Expense-approval-chatbot)** | Agile • Jira • SCRUM | Software Engineering project, developed an expense approval chatbot which tracks, submits, manage expenses|
 
 ---
 
 # 🛠 Tools and Technology 
 
-### 👨‍💻 Programming Languages
-
-- Python
-- SQL
-- C++
-
-### 🤖 AI & Machine Learning
-
-- Generative AI
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Machine Learning
-- NLP
-
-### 📊 Data Analytics
-
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-
-### 🗄 Databases
-
-- MySQL
-- SQLite
-
-### ⚙️ Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Streamlit
+- Languages - SQL, Python, Java
+- Tools - VS code, Git, GitHub, Power BI, Jupyter Notebook, Jira
+- Libraries - Numpy, Pandas, Matplotlib, Scikit-learn
 
 ---
-Don't Forget to checkout my [AI Prompts Repo](https://github.com/swathidotdev/ai-prompts)
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
