@@ -26,7 +26,6 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 |----------|-------------|-------------|
 | 🧠 **[OmniRAG – Multimodal RAG Assistant](https://github.com/swathidotdev/OmniRAG)** | Python • RAG • FastAPI • LLM • Streamlit | Developed a multimodal Retrieval-Augmented Generation assistant capable of querying PDFs, documents, and images using Large Language Models. |
 | 🍲 **[Context-Aware Recipe Generation using RAG](https://github.com/swathidotdev/Context-aware-recipe-generation-using-RAG)** | Python • RAG • RecipeNLG • NLP | Built an intelligent recipe recommendation system using Retrieval-Augmented Generation and trained on RecipeNLG with a focus on Indian cuisine. |
-| ❤️ **[EarlyPulse – ICU Deterioration Early Warning System](https://github.com/swathidotdev/early-pulse)** *(Ongoing)* | Python • Machine Learning • Healthcare AI | Developing a machine learning system that predicts early signs of ICU patient deterioration to assist healthcare professionals in timely intervention. |
 
 ---
 
