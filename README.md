@@ -50,7 +50,7 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 
 | Project | Technologies | Description |
 |----------|-------------|-------------|
-| 🎨 **[Mini RAFT Drawing Board](https://github.com/YOUR_USERNAME/mini-raft-drawing-board)** | C++ • Computer Graphics | Developed a mini drawing application implementing fundamental computer graphics algorithms with an interactive user interface. |
+| 🎨 **[Mini RAFT Drawing Board](https://github.com/swathidotdev/Mini-RAFT-drawing-board)** | C++ • Computer Graphics | Developed a mini drawing application implementing fundamental computer graphics algorithms with an interactive user interface. |
 
 ---
 
