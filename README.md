@@ -63,8 +63,8 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 ---
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: imswathim@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/swathi-m-94a456370?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 [Email](imswathim@gmail.com): 
 
 ---
 
