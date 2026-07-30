@@ -42,7 +42,7 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 
 | Project | Technologies | Description |
 |----------|-------------|-------------|
-| 📈 **[CloudSync Revenue Recovery Analytics](https://github.com/swathidotdev/cloudsync-revenue-recovery-analytics)** | Excel • Power BI • SQL • Python | Performed revenue recovery analysis by identifying revenue leakage, creating KPI dashboards, analyzing trends, and delivering business insights through interactive visualizations. |
+| 📈 **[KKBOX Subscription Churn & Retention Analysis](https://github.com/swathidotdev/KKBOX-churn-prediction-and-retention-analysis)** | Python · pandas · scikit-learn · LightGBM · SHAP · lifelines · matplotlib/seaborn · Streamlit · Plotly | An end-to-end machine learning and analytics project that predicts subscriber churn for the KKBOX streaming service, identifies underlying churn drivers, and evaluates cost-effective retention strategies. |
 ---
 
 ## 💻 Course Projects
