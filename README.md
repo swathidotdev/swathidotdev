@@ -50,7 +50,7 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 | Project | Technologies | Description |
 |----------|-------------|-------------|
 | 🎨 **[Mini RAFT Drawing Board](https://github.com/swathidotdev/Mini-RAFT-drawing-board)** | Python • RAFT • HTML • CSS • JS | Implemented the core concepts of the RAFT consensus algorithm used in distributed systems. The project simulated leader election, log replication, and fault tolerance among multiple nodes to ensure consistent data synchronization even during node failures. |
-| **[Expense Approval Chatbot](https://github.com/swathidotdev/Expense-approval-chatbot)** | Agile • Jira • SCRUM | Software Engineering project, developed an expense approval chatbot which tracks, submits, manage expenses|
+| 🤖 **[Expense Approval Chatbot](https://github.com/swathidotdev/Expense-approval-chatbot)** | Agile • Jira • SCRUM | Software Engineering project, developed an expense approval chatbot which tracks, submits, manage expenses|
 
 ---
 
