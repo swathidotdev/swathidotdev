@@ -24,7 +24,7 @@ I enjoy transforming raw data into meaningful insights and developing AI-powered
 
 | Project | Technologies | Description |
 |----------|-------------|-------------|
-| 🧠 **[OmniRAG – Multimodal RAG Assistant](https://github.com/swathidotdev/OmniRAG)** | Python • RAG • FastAPI • LLM • Streamlit | Developed a multimodal Retrieval-Augmented Generation assistant capable of querying PDFs, documents, and images using Large Language Models. |
+| 🧠 **[OmniRAG – Multimodal RAG Assistant](https://github.com/swathidotdev/OmniRAG)** | Python • RAG • FastAPI • LLM • Streamlit | Developed a multimodal Retrieval-Augmented Generation assistant capable of querying PDFs, documents, and images, links using Large Language Models. |
 | 🍲 **[Context-Aware Recipe Generation using RAG](https://github.com/swathidotdev/Context-aware-recipe-generation-using-RAG)** | Python • RAG • RecipeNLG • NLP | Built an intelligent recipe recommendation system using Retrieval-Augmented Generation and trained on RecipeNLG with a focus on Indian cuisine. |
 
 ---
